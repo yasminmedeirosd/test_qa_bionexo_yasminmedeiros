@@ -10,5 +10,5 @@ group :test do
   gem "chromedriver-helper"
   gem "report_builder"
   gem "allure-cucumber"
-  gem "rails"
+  gem "nokogiri"
 end
